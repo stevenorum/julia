@@ -1,0 +1,11 @@
+Install:
+
+https://julialang.org/downloads/
+
+Add to your path:
+
+export PATH=/Applications/Julia-0.6.app/Contents/Resources/julia/bin:$PATH
+
+Tutorials:
+
+https://juliabyexample.helpmanual.io/
