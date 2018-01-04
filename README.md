@@ -10,7 +10,8 @@ I want to learn julia.  The sample stuff I put here may also be useful to others
 
 1. [really_basic_stuff](really_basic_stuff/): Exactly what it sounds like.  hello world and all that jazz.
 2. [library_example](library_example/): How to create a julia library for use by other code.  Not yet started.
-3. [data_analysis](data_analysis/): How to do basic data analysis.  Not yet started.
+3. [compilation_example](compilation_example/): How to compile julia code.  Not yet started.
+4. [data_analysis](data_analysis/): How to do basic data analysis.  Not yet started.
 
 ## Acknowledgements
 
